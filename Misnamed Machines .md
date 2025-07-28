@@ -1688,3 +1688,12 @@ https://creativecommons.org/licenses/by-sa/4.0/
 Original Author:  
 **Zane Deering**  
 Cognitive Systems Framework Designer | Interaction Architect
+
+© 2025 Zane Deering. All rights reserved.
+
+This work is published for research, documentation, and transparency.  
+You may quote or reference this paper with attribution.  
+Reuse, reproduction, or derivative creation without explicit credit is prohibited.  
+If you wish to adapt this work, contact the author for permission.
+
+https://www.linkedin.com/in/zane-deering-cognitive-systems-architect-4a6b18301?utm_source=
